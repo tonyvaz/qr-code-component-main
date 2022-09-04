@@ -29,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/tonyvaz/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://tonyvaz.github.io/qr-code-component-main/)
 
 ## My process
 
